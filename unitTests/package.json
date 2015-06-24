@@ -1,0 +1,16 @@
+{
+  "name": "unitTests",
+  "version": "0.0.0",
+  "description": "unit tests for monet-promise",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-jasmine": "~0.8.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Scott Burch",
+  "license": "MIT"
+}
