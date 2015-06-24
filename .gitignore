@@ -1,2 +1,4 @@
 # Created by .ignore support plugin (hsz.mobi)
 *.iws
+node_modules
+.grunt
